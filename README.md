@@ -60,9 +60,6 @@
 | PORT | NoVNC HTTP Port |
 | NGROK_AUTH_TOKEN | Ngrok Token |
 | NGROK_REGION | Ngrok Server Region (Only PureVNC) |
-| NO_SLEEP | Prevent Heroku app from sleeping, disabled by default |
-| APP_NAME | Name of Heroku app |
-| BRAVE_USE_SHM | Usage of /dev/shm for Brave |
 
 ## **Installation :**
  * Heroku Users :

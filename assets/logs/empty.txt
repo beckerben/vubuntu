@@ -1,0 +1,1 @@
+# Needed for logs directory to be created
